@@ -11,6 +11,7 @@
 <br/>
 
 ---
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=pawankumar68&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=9ca3af&border_radius=12"/>
 
 ### 👨‍💻 &nbsp;About Me
 
