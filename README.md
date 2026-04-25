@@ -18,7 +18,7 @@
 &nbsp;&nbsp;🎓 &nbsp;BCA 2nd Year — **TMU Moradabad**  
 &nbsp;&nbsp;🛡️ &nbsp;Training: **ZeroDay Vault SOC Analyst L1**  
 &nbsp;&nbsp;🏠 &nbsp;Home Lab: **Kali Linux on VirtualBox**  
-&nbsp;&nbsp;📖 &nbsp;Daily SOC notes logged on GitHub  
+&nbsp;&nbsp;📖 &nbsp;Sharing my SOC notes logged on GitHub  
 &nbsp;&nbsp;🎯 &nbsp;Goal: **First SOC Analyst role**  
 &nbsp;&nbsp;⚡ &nbsp;Mantra: *Detect. Respond. Defend.*  
 
