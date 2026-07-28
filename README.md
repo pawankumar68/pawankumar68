@@ -21,12 +21,12 @@
 
 ### 🎓 Certifications
 
-| Certificate | Issuer | Date | Credential |
-|---|---|---|---|
-| 🛡️ Cybersecurity Job Simulation | Mastercard × Forage | Jun 2026 | Verification Code: `6a29b2a477d91fab1d5974ba` |
-| 📊 Intro to Splunk (eLearning) | Splunk | Feb 2026 | [Verify Certificate](https://education.splunk.com/content/prodencryption/G5R227dPkVTGdt1pCbSGwA/1770412666/0216MDEzNnEzQUpia2pCU1Btem5rcXdyL1BwVG5) |
-| 🔐 Cyber Security Virtual Internship | CodeAlpha | Jun–Jul 2026 | Student ID: `CA/DF1/145051` |
-| 📘 Fundamentals of Cybersecurity | upGrad | Jan 2026 | UID: `tmqFsKmqzOvB45zG` |
+| Certificate | Issuer | Date |
+|---|---|---|
+| 🛡️ Cybersecurity Job Simulation | Mastercard × Forage | Jun 2026 |
+| 📊 Intro to Splunk (eLearning) | Splunk | Feb 2026 |
+| 🔐 Cyber Security Virtual Internship | CodeAlpha | Jun–Jul 2026 |
+| 📘 Fundamentals of Cybersecurity | upGrad | Jan 2026 |
 
 ---
 
