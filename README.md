@@ -13,7 +13,6 @@
 - 🔵 Focused on **Blue Team fundamentals** — SOC tools, network defense, secure coding
 - 🐧 Practicing **Linux, Python & SOC tools** as a beginner
 - 🌱 Currently building my **SOC-Journey** learning repo, one topic at a time
-- 💬 Ask me about basics of phishing detection, network sniffing, or secure coding reviews
 - 📫 Reach me: **pawanpandey9493@gmail.com**
 - 🔗 LinkedIn: [pawankumar-soc-analyst](https://linkedin.com/in/pawankumar-soc-analyst)
 
