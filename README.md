@@ -7,19 +7,19 @@
 
 ---
 
-
 ### 🧑‍💻 About Me
 
 - 🎓 BCA student, passionate about **Cybersecurity**
 - 🔵 Focused on **Blue Team fundamentals** — SOC tools, network defense, secure coding
 - 🐧 Practicing **Linux, Python & SOC tools** as a beginner
 - 🌱 Currently building my **SOC-Journey** learning repo, one topic at a time
+- 🌐 Portfolio: [pawankumar68.github.io/portfolio](https://pawankumar68.github.io/portfolio/)
 - 📫 Reach me: **pawanpandey9493@gmail.com**
 - 🔗 LinkedIn: [pawankumar-soc-analyst](https://linkedin.com/in/pawankumar-soc-analyst)
 
 ---
 
-### 🎓 Certifications
+### 🎓 Certifications & Courses
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -27,12 +27,15 @@
 | 📊 Intro to Splunk (eLearning) | Splunk | Feb 2026 |
 | 🔐 Cyber Security Virtual Internship | CodeAlpha | Jun–Jul 2026 |
 | 📘 Fundamentals of Cybersecurity | upGrad | Jan 2026 |
+| 🌐 Google Cybersecurity Certificate | Google / Coursera | In Progress |
 
 ---
 
 ### 🏆 Hackathons & Extras
 
-- 💻 Participant — **Hack Dead Redemption** Hackathon, TMU (Apr 2026)
+- 🥇 **Team Leader — Smart India Hackathon 2026 (SIH)**
+  Internal round qualified at TMU | Idea submitted on SIH portal | Domain: Cybersecurity
+- 💻 **Team Leader — Hack Dead Redemption** Hackathon, TMU (Apr 2026)
 - 🗣️ Communication Skills Mentorship Program — IEEE STB, TMU (Oct 2024)
 
 ---
@@ -55,6 +58,7 @@
 ### 📌 Featured Projects
 
 - 🔍 **[SOC-Journey](https://github.com/pawankumar68/SOC-Journey)** — My cybersecurity learning journey (Blue Team fundamentals)
+- 📧 **[email-forensic-toolkit](https://github.com/pawankumar68/email-forensic-toolkit)** — Python CLI tool for email forensics, IOC extraction and risk scoring
 - 🕵️ **[CodeAlpha_NetworkSniffer](https://github.com/pawankumar68/CodeAlpha_NetworkSniffer)** — Python-based packet sniffer built with Scapy
 - 🎣 **[CodeAlpha_PhishingAwareness](https://github.com/pawankumar68/CodeAlpha_PhishingAwareness)** — Interactive phishing awareness training + quiz
 - 🔐 **[CodeAlpha_SecureCodingReview](https://github.com/pawankumar68/CodeAlpha_SecureCodingReview)** — Security review of a sample login page, common vulnerabilities identified & fixed
